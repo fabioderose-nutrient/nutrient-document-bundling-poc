@@ -1,0 +1,24 @@
+{
+  "bundleTitle": "Witness Bundle",
+  "caseTitle": "Example Professional Standards Council v Jordan Ellis",
+  "caseRef": "EPSC-2026-0142",
+  "coverSheetTemplate": "../documents/Exhibit cover sheet template.docx",
+  "sections": [
+    {
+      "title": "Witness Statements",
+      "items": [
+        { "file": "../documents/Witness statement - Chris Walker.docx", "title": "Witness statement of Chris Walker" },
+        { "file": "../documents/Witness statement - Priya Shah.docx", "title": "Witness statement of Priya Shah" }
+      ]
+    },
+    {
+      "title": "Exhibits",
+      "items": [
+        { "file": "../documents/CW01 handwritten note.jpg", "title": "Handwritten note", "exhibitRef": "CW/01", "witness": "Chris Walker" },
+        { "file": "../documents/CW02 incident report.pdf", "title": "Incident report", "exhibitRef": "CW/02", "witness": "Chris Walker" },
+        { "file": "../documents/PS01 investigation report.pdf", "title": "Investigation report", "exhibitRef": "PS/01", "witness": "Priya Shah" },
+        { "file": "../documents/PS02 investigation notes.pdf", "title": "Investigation notes", "exhibitRef": "PS/02", "witness": "Priya Shah" }
+      ]
+    }
+  ]
+}

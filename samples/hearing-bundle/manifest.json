@@ -1,0 +1,31 @@
+{
+  "bundleTitle": "Hearing Bundle",
+  "caseTitle": "Example Professional Standards Council v Jordan Ellis",
+  "caseRef": "EPSC-2026-0142",
+  "coverSheetTemplate": "../documents/Exhibit cover sheet template.docx",
+  "sections": [
+    {
+      "title": "Referral",
+      "items": [
+        { "file": "../documents/Referral form.pdf", "title": "Referral form" }
+      ]
+    },
+    {
+      "title": "Evidence",
+      "items": [
+        { "file": "../documents/CW02 incident report.pdf", "title": "Incident report", "exhibitRef": "CW/02", "witness": "Chris Walker" },
+        { "file": "../documents/PS01 investigation report.pdf", "title": "Investigation report", "exhibitRef": "PS/01", "witness": "Priya Shah" },
+        { "file": "../documents/PS02 investigation notes.pdf", "title": "Investigation notes", "exhibitRef": "PS/02", "witness": "Priya Shah" },
+        { "file": "../documents/Meeting notes.docx", "title": "Meeting notes" },
+        { "file": "../documents/Character reference.docx", "title": "Character reference" }
+      ]
+    },
+    {
+      "title": "Correspondence",
+      "items": [
+        { "file": "../documents/Email - Notice of hearing.eml", "expandAttachments": true },
+        { "file": "../documents/Email - Registrant response.eml", "expandAttachments": true }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+# Keep the CRLF line endings of the sample emails (RFC 5322).
+*.eml -text

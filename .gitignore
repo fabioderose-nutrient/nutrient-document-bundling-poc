@@ -1,0 +1,27 @@
+# .NET build output
+bin/
+obj/
+*.user
+.vs/
+
+# Local settings and secrets
+.env
+
+# Generated bundles
+samples/*-bundle/*.pdf
+output/
+
+# Python virtual environments and caches (sample generator)
+.venv/
+venv/
+__pycache__/
+
+# OS, editor and tool files
+.DS_Store
+.vscode/
+.idea/
+
+# Logs and archives
+*.log
+logs/
+*.zip
